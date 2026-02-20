@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import { $ } from "bun"
+import { $ } from "bunssss"
 import { Script } from "@opencode-ai/script"
 
 const highlightsTemplate = `
