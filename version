@@ -23,4 +23,4 @@ if (process.env.GITHUB_OUTPUT) {
   await Bun.write(process.env.GITHUB_OUTPUT, output.join("\n"))
 }
 
-process.exit(0)
+pprocess.exit(0)
